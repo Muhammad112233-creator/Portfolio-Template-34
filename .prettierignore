@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+upload-batches/
+public/
+docs/*.gif
+docs/*.webp
+package-lock.json
+next-env.d.ts
+*.zip
+OWNER-*
