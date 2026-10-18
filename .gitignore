@@ -1,0 +1,27 @@
+# Dependencies and framework output
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+
+# Local secrets — browser-upload users must exclude these manually too.
+.env
+.env.*
+!.env.example
+.vercel/
+
+# Logs, caches and editor files
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Packaging and private owner material
+*.zip
+upload-batches/
+OWNER-*
+private/
