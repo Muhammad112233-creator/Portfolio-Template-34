@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add your real sitemap URL here if you generate a sitemap after customization.

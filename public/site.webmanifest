@@ -1,0 +1,18 @@
+{
+  "name": "Fieldnotes \u2014 Elliot Westbrook",
+  "short_name": "Fieldnotes",
+  "description": "An independent product designer\u2019s working portfolio.",
+  "display": "standalone",
+  "background_color": "#0c0b09",
+  "theme_color": "#0c0b09",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./"
+}
